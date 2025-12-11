@@ -151,4 +151,4 @@ Se achar um bug, abre uma issue que eu te ajudo a resolver.
 
 ---
 
-Feito com 💙 e bastante café ☕ — por **Guy**
+Feito bastante café ☕ — por **Guy**
