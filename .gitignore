@@ -1,0 +1,17 @@
+# Binaries
+/task-api
+
+# DB
+tasks.db
+*.db
+
+# Vendor
+/vendor/
+
+# IDE
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+openapi: 3.0.1
+info:
+  title: Task Processor API
+  version: 1.0.0
+paths:
+  /tasks:
+    get:
+      summary: List tasks
+    post:
+      summary: Create task

@@ -1,0 +1,11 @@
+### Criar tarefa
+POST http://localhost:8081/tasks
+Content-Type: application/json
+
+{
+  "title": "Test task",
+  "description": "This is a test task"
+}
+
+### Listar tarefas
+GET http://localhost:8081/tasks
